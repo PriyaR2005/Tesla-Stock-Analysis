@@ -20,12 +20,12 @@ The dataset used is `TESLA.csv` which includes:
 - Random Forest Regressor
 - XGBoost Regressor
 
-##🚀 How to Run
+## 🚀 How to Run
 Clone the repository.
 Ensure TESLA.csv is in the root directory.
 Run the notebook stock_analysis_tesla.ipynb in Jupyter or Google Colab.
 
-##📌 Output
+## 📌 Output
 Model evaluation metrics (R², RMSE, MAE)
 Graphical insights
 Prediction plots for each model
