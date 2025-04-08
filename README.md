@@ -20,6 +20,16 @@ The dataset used is `TESLA.csv` which includes:
 - Random Forest Regressor
 - XGBoost Regressor
 
+##🚀 How to Run
+Clone the repository.
+Ensure TESLA.csv is in the root directory.
+Run the notebook stock_analysis_tesla.ipynb in Jupyter or Google Colab.
+
+##📌 Output
+Model evaluation metrics (R², RMSE, MAE)
+Graphical insights
+Prediction plots for each model
+
 ## 📈 Visualizations
 - Stock price trends with moving averages
 - Trading volume
@@ -30,13 +40,3 @@ The dataset used is `TESLA.csv` which includes:
 ```python
 pandas, numpy, matplotlib, seaborn
 sklearn, xgboost, datetime
-
-##🚀 How to Run
-Clone the repository.
-Ensure TESLA.csv is in the root directory.
-Run the notebook stock_analysis_tesla.ipynb in Jupyter or Google Colab.
-
-##📌 Output
-Model evaluation metrics (R², RMSE, MAE)
-Graphical insights
-Prediction plots for each model
